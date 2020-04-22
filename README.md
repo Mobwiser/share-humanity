@@ -1,4 +1,12 @@
-# ShareHumanity
+# Share Humanity
+
+This is a humanitarian project created to provide tools that help all stakeholders that actively contribute to humanitarian events:
+
+* Organizations
+* Volunteers
+* Donators
+
+Additionally, we also see this application as a promotion tool so that it can  disseminate the importance of volunteering around the world.
 
 This project was generated using [Nx](https://nx.dev).
 
